@@ -1,0 +1,31 @@
+Web Service -> Medium or Mechanism of communication between two applications/systems over a network without worrying about the underlying structure of 
+the systems.
+
+SOAP Medium (HTTP Only POST) Format (XML) vs REST Medium (HTTP GET,POST,PUT..) Format(XML,JSON,TEXT...)
+
+Web Service vs API
+
+SOAP is a standard protocol for sending and receiving and web services requests and response using XML Format.
+
+WSDL -> Web Service Description Language is an XML-Based interface description language that is used for describing the functionality offered by a web service
+
+UDDI ->Universal Description,Discovery and Integration (Repository for wsdl)
+
+Princtiples of REST Architecture
+Uniform Interface
+Stateless
+Cacheable
+Layered System
+
+For REST We have WADL,
+
+SOAPUI ->Testing Frameworks for SOAP Requests
+RESTUI
+
+OAuth vs OAuth 2.0
+OAuth is an Open Authorization mechanism where services can authorize against
+each other on your behalf once you have given them permission. Also called as
+access delegation. Meant for Authorization between Services to address problems
+related to access between services
+
+OAuth Workflow

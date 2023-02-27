@@ -1,0 +1,21 @@
+Monolith Architecture vs MicroService Architecture vs FAAS]]
+
+Function-as-a-Service (FaaS) is a serverless way to execute modular pieces of code on the edge. 
+FaaS lets developers write and update a piece of code on the fly, which can then be executed in response to an event, such as a user clicking on an element in a web application. 
+This makes it easy to scale code and is a cost-efficient way to implement microservices.
+
+Monolithic Architecture
+Advantages
+Diadvantages
+
+MicroService Architecture
+Advantages
+Diadvantages
+
+Testing Strategy in MicroServices
+
+Fault Injection
+Canary Deployment
+Blue Green Deployment
+
+MultiVariate Testing (Not Understood)

@@ -1,0 +1,26 @@
+Json Parser
+
+data[?(@.id==10)].first_name;
+
+Factory Annotation in TestNg
+
+Data Provider
+
+Make My Trip APi Work Around
+
+Security Based Services
+
+To do-
+Schema Validation
+
+Hamecrust -> things like matchers that is hasItems
+
+Tasks
+jsonPlaceHolder
+wireMock
+DataDriven
+
+Pact is an open source contract testing tool for testing HTTP requests, responses, and message integrations by using contract tests.
+
+The Pact Broker is an application for sharing Pact contracts and verification results. 
+The Pact Broker is also an important piece for integrating Pact into continuous integration and continuous delivery (CI/CD) pipelines.
